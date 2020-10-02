@@ -1,4 +1,4 @@
-I: int=int(input("Enter first number : "))
+I=int(input("Enter first number : "))
 J=int(input("Enter second number : "))
 
 for(I=1 ; I>=J ; I++)
